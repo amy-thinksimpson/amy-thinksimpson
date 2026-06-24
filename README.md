@@ -1,8 +1,8 @@
 ## Amy Simpson
 
-Operator and company builder. I use AI as an everyday working tool — 
-to design systems, build applications, and create infrastructure 
-that solves real GTM, RevOps, and operational problems.
+Operator and company builder. I work AI-native — it is built into 
+how I think, solve problems, and get work done every day, not 
+something I occasionally reach for.
 
 **Background:** Co-founded a B2B SaaS platform from concept through 
 acquisition. Led Revenue Operations at scale across distributed teams 

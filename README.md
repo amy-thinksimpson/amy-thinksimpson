@@ -1,8 +1,6 @@
 ## Amy Simpson
 
-Operator and company builder. I work AI-native — it is built into 
-how I think, solve problems, and get work done every day, not 
-something I occasionally reach for.
+Operator and company builder. AI-native.
 
 **Background:** Co-founded a B2B SaaS platform from concept through 
 acquisition. Led Revenue Operations at scale across distributed teams 
@@ -21,4 +19,4 @@ Salesforce, HubSpot, Outreach
 
 [thinksimpson.com](https://thinksimpson.com) 
 | [LinkedIn](https://linkedin.com/in/amy-simpson-ba29b6b) 
-| amy@thinksimpson.com
+| [amy@thinksimpson.com](mailto:amy@thinksimpson.com)

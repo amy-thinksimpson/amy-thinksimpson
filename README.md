@@ -1,16 +1,24 @@
-## Hi there 👋
+## Amy Simpson
 
-<!--
-**amy-thinksimpson/amy-thinksimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operator and company builder. I use AI as an everyday working tool — 
+to design systems, build applications, and create infrastructure 
+that solves real GTM, RevOps, and operational problems.
 
-Here are some ideas to get you started:
+**Background:** Co-founded a B2B SaaS platform from concept through 
+acquisition. Led Revenue Operations at scale across distributed teams 
+in the U.S., India, and Philippines. Now an embedded executive operator 
+applying AI tooling to real delivery problems across early-stage and 
+growth-stage companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I build here:** Operational tools and dashboards built with the 
+stack below — original projects that mirror real delivery problems. 
+No client data, no proprietary methodology — just the work.
+
+**Stack:** Claude, Cursor, Supabase, GitHub, Netlify, Make, Zapier, 
+Salesforce, HubSpot, Outreach
+
+---
+
+[thinksimpson.com](https://thinksimpson.com) 
+| [LinkedIn](https://linkedin.com/in/amy-simpson-ba29b6b) 
+| amy@thinksimpson.com

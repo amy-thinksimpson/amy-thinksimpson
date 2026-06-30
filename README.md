@@ -18,5 +18,6 @@ Salesforce, HubSpot, Outreach
 ---
 
 [thinksimpson.com](https://thinksimpson.com) 
+| [thinksimpson.com/portfolio](https://thinksimpson.com/portfolio) 
 | [LinkedIn](https://linkedin.com/in/amy-simpson-ba29b6b) 
 | [amy@thinksimpson.com](mailto:amy@thinksimpson.com)
